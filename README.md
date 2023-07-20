@@ -1,4 +1,4 @@
 # MachineLearning6.867
-My own notes, implementations, and musings for MIT's graduate course in machine learning, 6.867
+MIT's graduate course in machine learning, 6.867
 
-MIT Notes for Studying purpose
+**MIT Notes for Studying purpose**
